@@ -1,0 +1,25 @@
+pour installer  next js on suit la documentation next js
+yarn create next-app
+sudo apt install cmdtest
+mkdir NextProjects
+cd NextProjects
+pnpm env  ?
+apt-get install npm #install nodejs aussi par defaut en dependance
+npx create-next-app@latest
+npx create-next-app@latest --typescript #si typescript
+
+mkdir NextProjects
+cd NextProjects
+npm init -y
+npm install next react react-dom
+
+The file structure of the project should resemble the following (excluding node_modules and package-lock.json):
+path/to/firstproject/
+├── package.json
+├── pages
+├── public
+├── README.md
+└── styles
+
+npm run dev
+
